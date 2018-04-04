@@ -4,4 +4,4 @@
 
 或者本人博客：http://chuzhaozhi.cn
 
-[显示效果](https://github.com/chuzhaozhi/iconfontDemo/blob/master/1522828060645.jpg)
+https://github.com/chuzhaozhi/iconfontDemo/blob/master/1522828060645.jpg
